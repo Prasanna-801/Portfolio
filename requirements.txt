@@ -1,0 +1,4 @@
+
+Django>=4.2.0
+sqlite3>=3.40.0
+bootstrap4
