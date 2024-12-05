@@ -18,7 +18,7 @@ Installation Instructions
 
 Clone this repository:
 bash
-git clone https://github.com/your-username/your-portfolio-repo.git  
+https://github.com/Prasanna-801/Portfolio/blob/main/portfolio1.zip 
 
 Navigate to the project directory:
 
